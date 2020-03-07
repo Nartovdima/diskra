@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1582809804 source:c:\Программирование\z_lzw\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<string>
+	<algorithm>
+	<iomanip>
+	<map>
+	<set>
+	<iterator>
+	<bitset>
+	<fstream>
+	<unordered_set>
+	<unordered_map>
+
